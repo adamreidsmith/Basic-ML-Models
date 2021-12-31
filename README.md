@@ -1,5 +1,5 @@
 # Basic ML Models
-This repository contains a few basic implementations of machine learning algorithms as well as the preliminary data analysis involved.
+This repository contains basic implementations of a few machine learning algorithms as well as the preliminary data analysis involved.
 
 # Installation
     $ git clone https://github.com/adamreidsmith/Basic-ML-Models
