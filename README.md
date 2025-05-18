@@ -12,6 +12,15 @@ This binary classification model aims to predics whether an individuals annual i
 ## SVM
 The [data](https://archive.ics.uci.edu/ml/datasets/adult) used in this binary classification model is the same as that for the logistic regression model.  The preliminary data analysis proceeds the same as well, except that missing values are imputed with a KNN imputer using the machine learning library [scikit-learn](https://scikit-learn.org/stable/).  The model is created with scikit-learn and a grid search over the classifier's C and gamma values is implemented in an effort to optimize the model.  Several measures of the models performance are computed, and the ROC curve from this model is compared to that of the logistic regression model.  Both models are found to perform similarly with little difference in accuracy and F-1 score.
 
+# Technologies Used
+ * [Jupyter Notebook](https://jupyter.org)
+ * [PyTorch](https://pytorch.org)
+ * [Scikit-learn](https://scikit-learn.org/)
+ * [Pandas](https://pandas.pydata.org)
+ * [Seaborn](https://seaborn.pydata.org)
+ * [Numpy](https://numpy.org)
+ * [Matplotlib](https://matplotlib.org)
+
 # Installation
     $ git clone https://github.com/adamreidsmith/Basic-ML-Models
     $ cd Basic-ML-Models
