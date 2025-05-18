@@ -24,7 +24,7 @@ The [data](https://archive.ics.uci.edu/ml/datasets/adult) used in this binary cl
 # Technologies Used
  * [Jupyter Notebook](https://jupyter.org)
  * [PyTorch](https://pytorch.org)
- * [TensorFlow] (https://www.tensorflow.org)
+ * [TensorFlow](https://www.tensorflow.org)
  * [Scikit-learn](https://scikit-learn.org/)
  * [Pandas](https://pandas.pydata.org)
  * [Seaborn](https://seaborn.pydata.org)
